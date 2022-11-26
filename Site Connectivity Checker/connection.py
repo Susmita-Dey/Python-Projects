@@ -7,6 +7,7 @@ import urllib.request as urllib
 
 def main(url):
     print("Checking connectivity in progress...")
+    # opens in the url in the background
     response = urllib.urlopen(url)
     print("Connected to", url, "succesfully.")
     print("The response status code is:", response.getcode())
