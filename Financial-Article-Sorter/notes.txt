@@ -1,0 +1,4 @@
+pickle -> The pickle module contains functions for serializing and deserializing python objects.
+pickling -> Pickling is essentially the process whereby a python object is converted into a byte stream and stored into a binary file.
+pandas -> Pandas is an open source library for data analysis and manipulation and essentially provides data structures and functions designed to make working with structured data super eas, fast and convenient.
+tfidf -> It stands for term frequency inverse document frequency. This is a machine learning term. It is going to help us with the weighted count of the frequency of each word in our vocabulary.
